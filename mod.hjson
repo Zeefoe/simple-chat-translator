@@ -10,4 +10,5 @@ The target language should be automatically set by what language you have your g
 '''
 version: 1.0
 minGameVersion: 150
+hidden: true
 java: true
