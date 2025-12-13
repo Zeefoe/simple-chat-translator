@@ -1,23 +1,13 @@
-#the mod name as displayed in-game
 displayName: "Simple Chat Translator"
-
-#the internal name of your mod
 name: "simple-chat-translator"
-
-#your name
-author: "You"
-
-#the fully qualified main class of the mod
+author: "Zeefoe"
 main: "simpleChatTranslator.chatTranslator"
+subtitle: "A chat translator that just works."
+description: '''
+Translates the chat using google translate with zero configuration.
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
-
-#the mod version
+The target language should be automatically set by what language you have your game in.
+'''
 version: 1.0
-
-#the minimum game build required to run this mod
 minGameVersion: 150
-
-#this is a java mod
 java: true
