@@ -4,7 +4,8 @@ author: "Zeefoe"
 main: "simpleChatTranslator.chatTranslator"
 subtitle: "A chat translator that just works."
 description: '''
-Translates the chat using google translate with zero configuration.
+A chat translator that just works.
+Translates the chat using google translate without any setup and configuration.
 
 The target language should be automatically set by what language you have your game in.
 '''
