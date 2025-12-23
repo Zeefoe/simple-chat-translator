@@ -10,6 +10,6 @@ Translates the chat using google translate without any setup and configuration.
 The target language should be automatically set by what language you have your game in.
 '''
 version: 1.0
-minGameVersion: 150
+minGameVersion: 154.2
 hidden: true
 java: true
